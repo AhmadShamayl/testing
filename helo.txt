@@ -2,4 +2,8 @@ hello world
 
 
 i am trying to learn new things
+<<<<<<< HEAD
 feature1 update
+=======
+main update
+>>>>>>> main
