@@ -2,14 +2,8 @@ hello world
 
 
 i am trying to learn new things
-<<<<<<< HEAD
-feature1 update
-=======
-main update
-<<<<<<< HEAD
 
 feature1 updated now
 main updated
-=======
->>>>>>> main
->>>>>>> 55a4edccb20331a411897e449b9f62b7b36fa490
+
+checking whether its updated or not
