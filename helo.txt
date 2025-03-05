@@ -3,3 +3,6 @@ hello world
 
 i am trying to learn new things
 main update
+
+feature1 updated now
+main updated
